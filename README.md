@@ -3,7 +3,7 @@
 - 🔭 I’m currently testing out different graph RAG approaches and implementations.
 - 🌱 I’m currently learning how to build efficient RAG and Agentic AI systems.
 
-- ⚡ Fun fact: I had been programming computers since the age of 12 and, in 1992, I enrolled in my Informatics studies at the University of Piraues (Athens, Greece). A few months later, I pitched the idea of the Internet to my parents, explaining its potential and asking whether they could help me raise funds to build the first ISP in Greece. They responded: don't do anything stupid! Focus on your academic studies; only a few computer geeks may ever want to connect their computers to a network!
+- ⚡ Fun fact: I had been programming computers since the age of 12 and, in 1992, I enrolled in my Informatics studies at the University of Piraues (Athens, Greece). A few months later, I pitched the idea of the Internet to my parents, explaining its potential and asking whether they could help me raise funds to build the first ISP in Greece. They responded: don't do anything stupid! Focus on your academic studies; only a few computer geeks may ever want to connect their computers to the Internet!
 <!--
 - 👯 I’m looking to collaborate on 
 - 💬 Ask me about ...
