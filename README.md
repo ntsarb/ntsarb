@@ -1,8 +1,4 @@
-## Hi there 👋
-
-**ntsarb/ntsarb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# About me
 
 - 🔭 I’m currently working on testing out different graph RAG approaches and implementations.
 - 🌱 I’m currently learning how to build RAG and Agentic AI systems.
